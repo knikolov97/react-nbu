@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-nbu/static/css/main.073c9b0a.css",
+    "main.js": "/react-nbu/static/js/main.a4314128.js",
+    "static/js/787.e2a60ed4.chunk.js": "/react-nbu/static/js/787.e2a60ed4.chunk.js",
+    "static/media/logo.svg": "/react-nbu/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-nbu/index.html",
+    "main.073c9b0a.css.map": "/react-nbu/static/css/main.073c9b0a.css.map",
+    "main.a4314128.js.map": "/react-nbu/static/js/main.a4314128.js.map",
+    "787.e2a60ed4.chunk.js.map": "/react-nbu/static/js/787.e2a60ed4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a4314128.js"
+  ]
+}
